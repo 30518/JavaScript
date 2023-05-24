@@ -1,1 +1,4 @@
-asd
+node_modules
+config.json
+data
+.env
